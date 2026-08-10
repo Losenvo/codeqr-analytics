@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@codeqr/analytics": "workspace:*",
-    "next": "15.5.22",
+    "next": "15.5.23",
     "react": "^19",
     "react-dom": "^19"
   },
@@ -26,8 +26,8 @@
     "autoprefixer": "^10.5.4",
     "dotenv": "^17.4.2",
     "eslint": "^8",
-    "eslint-config-next": "15.5.22",
-    "postcss": "^8.5.25",
+    "eslint-config-next": "15.5.23",
+    "postcss": "^8.5.26",
     "tailwindcss": "^3.4.19",
     "typescript": "^5"
   }
